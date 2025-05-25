@@ -5,6 +5,10 @@ The current system within the organization under study suffers from fragmented w
 
 Therefore, this project focuses on Business Process Modeling using UML/BPMN methodologies to identify, document, and analyze key processes within the organization. The goal is to design optimized workflows that support improved service delivery, communication, and system integration, forming the foundation for future MIS development and automation.
 
+OEM DIAGRAM
+![WhatsApp Image 2025-05-25 at 13 01 03_2ac60df6](https://github.com/user-attachments/assets/579c3278-5029-49c5-a56f-7c56d7b4742b)
+
+
 ✅ Methodology
 To effectively analyze and model the business processes, the following methodology will be adopted:
 
