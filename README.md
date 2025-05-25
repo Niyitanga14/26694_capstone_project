@@ -1,3 +1,78 @@
+✅ Problem Statement
+In today’s dynamic business environment, organizations face challenges in aligning their operational processes with strategic objectives due to a lack of visibility, inefficiencies, and poor communication among stakeholders. The absence of clearly defined business processes often leads to delays, errors, resource wastage, and customer dissatisfaction.
+
+The current system within the organization under study suffers from fragmented workflows, unclear responsibilities, and redundant tasks. This has led to inconsistencies in service delivery, reduced productivity, and increased operational costs. There is a pressing need to analyze, model, and improve the existing business processes to enhance efficiency, accountability, and decision-making.
+
+Therefore, this project focuses on Business Process Modeling using UML/BPMN methodologies to identify, document, and analyze key processes within the organization. The goal is to design optimized workflows that support improved service delivery, communication, and system integration, forming the foundation for future MIS development and automation.
+
+✅ Methodology
+To effectively analyze and model the business processes, the following methodology will be adopted:
+
+Requirement Gathering & Scope Definition
+
+Conduct interviews with stakeholders and review existing documents to understand the current processes.
+
+Define the boundaries and objectives of the process to be modeled.
+
+Identify key activities, actors, inputs, and outputs.
+
+Entity Identification
+
+List all relevant business entities (e.g., customer, employee, transaction, product) and their roles in the process.
+
+Categorize entities based on their functions and interactions.
+
+Process Mapping
+
+Use Swimlane Diagrams to map the current (As-Is) processes.
+
+Clearly assign responsibilities to departments or roles using swimlanes.
+
+Business Process Modeling (BPM)
+
+Apply UML (Activity Diagrams) or BPMN notations to create structured, visual representations of the process.
+
+Highlight decision points, inputs/outputs, and communication flows.
+
+Analysis and Optimization
+
+Identify bottlenecks, redundancies, and gaps in the current processes.
+
+Propose optimized (To-Be) processes to improve efficiency and alignment with MIS goals.
+
+Documentation
+
+Prepare detailed explanations of each model created.
+
+Provide narrative descriptions of workflows, decision points, and interactions.
+
+Review and Validation
+
+Present the models to stakeholders for feedback.
+
+Revise based on inputs to ensure accuracy and relevance.
+
+Final Reporting
+
+Compile the models, analysis, and explanations into a professional report.
+
+Include recommendations for future system implementation or automation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 📚 Business Process Modeling: Library Book Borrowing & Return System
 
 ---
